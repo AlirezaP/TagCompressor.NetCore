@@ -1,0 +1,20 @@
+﻿{
+  "version": "1.0.0-beta",
+  "description": "TagCompressor.NetCore Compress OR Minify Html Tags.",
+  "authors": [ "Alireza Paridar" ],
+  "tags": [ "TagCompressor TagMinify TagCompress TagMinifier" ],
+  "releaseNotes": "TagCompressor.NetCore Is A Class Library For dnx,dnxcore,...",
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "Microsoft.AspNet.Mvc.Core": "6.0.0-rc1-final"
+  },
+
+  "frameworks": {
+    "net451": { },
+    "dotnet5.4": { },
+    "dnx451": { },
+    "dnxcore50": { }
+  }
+}
